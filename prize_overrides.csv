@@ -1,0 +1,45 @@
+file_stem,prize_category,prize_years,source_url,note
+14th_Dalai_Lama,Peace,1989,https://api.nobelprize.org/2.1/laureate/551,no prize mention in file
+Al_Gore,Peace,2007,https://api.nobelprize.org/2.1/laureate/819,no prize mention in file
+Amnesty_International,Peace,1977,https://api.nobelprize.org/2.1/laureate/537,no prize mention in file
+Anwar_Sadat,Peace,1978,https://api.nobelprize.org/2.1/laureate/538,no prize mention in file
+Aung_San_Suu_Kyi,Peace,1991,https://api.nobelprize.org/2.1/laureate/553,no prize mention in file
+Barack_Obama,Peace,2009,https://api.nobelprize.org/2.1/laureate/845,no prize mention in file
+Desmond_Tutu,Peace,1984,https://api.nobelprize.org/2.1/laureate/546,no prize mention in file
+European_Union,Peace,2012,https://api.nobelprize.org/2.1/laureate/881,no prize mention in file
+George_Bernard_Shaw,Literature,1925,https://api.nobelprize.org/2.1/laureate/596,no prize mention in file
+Henry_Kissinger,Peace,1973,https://api.nobelprize.org/2.1/laureate/530,no prize mention in file
+Institute_of_International_Law,Peace,1904,https://api.nobelprize.org/2.1/laureate/467,no prize mention in file
+International_Atomic_Energy_Agency,Peace,2005,https://api.nobelprize.org/2.1/laureate/797,no prize mention in file
+International_Campaign_to_Ban_Landmines,Peace,1997,https://api.nobelprize.org/2.1/laureate/564,no prize mention in file
+James_Franck,Physics,1925,https://api.nobelprize.org/2.1/laureate/30,no prize mention in file
+Jimmy_Carter,Peace,2002,https://api.nobelprize.org/2.1/laureate/762,no prize mention in file
+Joseph_Stiglitz,Economic Sciences,2001,https://api.nobelprize.org/2.1/laureate/746,no prize mention in file
+Lech_Wałęsa,Peace,1983,https://api.nobelprize.org/2.1/laureate/545,no prize mention in file
+Menachem_Begin,Peace,1978,https://api.nobelprize.org/2.1/laureate/539,no prize mention in file
+Mikhail_Gorbachev,Peace,1990,https://api.nobelprize.org/2.1/laureate/552,no prize mention in file
+Mohamed_ElBaradei,Peace,2005,https://api.nobelprize.org/2.1/laureate/798,no prize mention in file
+Mother_Teresa,Peace,1979,https://api.nobelprize.org/2.1/laureate/540,no prize mention in file
+Nelson_Mandela,Peace,1993,https://api.nobelprize.org/2.1/laureate/555,no prize mention in file
+Organisation_for_the_Prohibition_of_Chemical_Weapons,Peace,2013,https://api.nobelprize.org/2.1/laureate/893,no prize mention in file
+Seamus_Heaney,Literature,1995,https://api.nobelprize.org/2.1/laureate/672,no prize mention in file
+United_Nations,Peace,2001,https://api.nobelprize.org/2.1/laureate/748,no prize mention in file
+United_Nations_High_Commissioner_for_Refugees,Peace,1954;1981,https://api.nobelprize.org/2.1/laureate/515,no prize mention in file
+Winston_Churchill,Literature,1953,https://api.nobelprize.org/2.1/laureate/624,no prize mention in file
+Yasser_Arafat,Peace,1994,https://api.nobelprize.org/2.1/laureate/557,no prize mention in file
+Yitzhak_Rabin,Peace,1994,https://api.nobelprize.org/2.1/laureate/559,no prize mention in file
+Albert_Luthuli,Peace,1960,https://api.nobelprize.org/2.1/laureate/519,year missing in file; Nobel Foundation spells the name Albert Lutuli
+Austen_Chamberlain,Peace,1925,https://api.nobelprize.org/2.1/laureate/488,year missing in file
+Dag_Hammarskjöld,Peace,1961,https://api.nobelprize.org/2.1/laureate/520,year missing in file
+Denis_Mukwege,Peace,2018,https://api.nobelprize.org/2.1/laureate/966,year missing in file
+Elinor_Ostrom,Economic Sciences,2009,https://api.nobelprize.org/2.1/laureate/846,year missing in file
+Grameen_Bank,Peace,2006,https://api.nobelprize.org/2.1/laureate/810,year missing in file
+John_Hume,Peace,1998,https://api.nobelprize.org/2.1/laureate/566,year missing in file
+John_Sulston,Physiology or Medicine,2002,https://api.nobelprize.org/2.1/laureate/752,year missing in file
+Ludwig_Quidde,Peace,1927,https://api.nobelprize.org/2.1/laureate/493,year missing in file
+Nicholas_Murray_Butler,Peace,1931,https://api.nobelprize.org/2.1/laureate/497,year missing in file
+Charles_G._Dawes,Peace,1925,https://api.nobelprize.org/2.1/laureate/489,extraction picked up a nearby date (1917)
+George_Davis_Snell,Physiology or Medicine,1980,https://api.nobelprize.org/2.1/laureate/421,extraction picked up a nearby date (1978)
+Naguib_Mahfouz,Literature,1988,https://api.nobelprize.org/2.1/laureate/665,extraction picked up a nearby date (1954)
+Rosalyn_Sussman_Yalow,Physiology or Medicine,1977,https://api.nobelprize.org/2.1/laureate/413,extraction picked up a nearby date (1979)
+Sune_Bergström,Physiology or Medicine,1982,https://api.nobelprize.org/2.1/laureate/425,extraction picked up a nearby date (2022)
